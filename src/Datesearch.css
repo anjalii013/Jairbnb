@@ -1,0 +1,41 @@
+.dateSearch {
+  position: absolute;
+  top: 35px;
+  left: 36%;
+  width: 100vw;
+}
+.dateSearch h2 {
+  display: flex;
+  align-items: center;
+  background-color: white;
+  justify-content: space-between;
+  width: 559px;
+  padding: 10px;
+  background-color: white;
+  position: absolute;
+  left: 0;
+  top: 350px;
+}
+
+.datesearch__inp {
+  width: 539px;
+  padding: 20px;
+  position: absolute;
+  height: 30px;
+  left: 0;
+  top: 390px;
+  border: none;
+}
+.datesearch__inp:focus {
+  outline-width: 0;
+}
+
+.dateSearch__airbtn {
+  position: absolute !important;
+  left: 0 !important;
+  top: 450px !important;
+  text-transform: inherit !important;
+  background-color: #ff7779 !important;
+  color: white !important;
+  width: 579px !important;
+}
